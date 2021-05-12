@@ -27,6 +27,6 @@
 
 💡 *You can optionally duplicate the action and change the default due date to have multiple Snooze options.* 
 
-**Step 7.** Now you are ready to snooze any Draft. 
+**Step 7.** Now you are ready to snooze any Draft. Use the "due" field to specify the date. Accepts some Natural language processing ("tomorrow" or "next friday" or "may 20") but not all ("in 2 days").
 
 ℹ️ *Don’t forget that this setup only works while your iPhone is turned on at the time of fetching drafts back (Step 4).*
