@@ -12,7 +12,7 @@
 
 <img src="https://i.imgur.com/tDnU3ac.png" width=15% height=15%>
 
-**Step 3.** [Download the shortcut that exports reminders due today to Drafts.](https://www.icloud.com/shortcuts/853d18084ab5401a949cf46352b965ed)
+**Step 3.** Download the [shortcut](https://www.icloud.com/shortcuts/853d18084ab5401a949cf46352b965ed).
 
 **Step 4.** Set a daily running automation in the Shortcuts app which runs the shortcut above. 
 
@@ -23,7 +23,7 @@
 <img src="https://i.imgur.com/OHvbi2z.png" width=15% height=15%>
 <img src="https://i.imgur.com/WtA6LC1.png" width=25% height=25%>
 
-**Step 6.** [Download the „Snooze“ Drafts Action.](https://actions.getdrafts.com/a/1lx)
+**Step 6.** Download the [„Snooze“ Drafts Action.](https://actions.getdrafts.com/a/1lx)
 
 💡 *You can optionally duplicate the action and change the default due date to have multiple Snooze options.* 
 
