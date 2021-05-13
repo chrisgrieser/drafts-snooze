@@ -1,6 +1,6 @@
 # Snooze a Draft
 
-**This setup enables you to „snooze“ drafts by sending them to the Reminders App and fetching them back when they are due.**
+**This setup enables you to „snooze“ drafts from the [Drafts App](https://getdrafts.com/) by sending them to the Reminders App and fetching them back when they are due.**
 
 ---
 
